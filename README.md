@@ -6,4 +6,3 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on something fun and challenging
 - 🌱 I’m currently learning front end web development
 - ⚡ Fun fact: I love dogs 🐕
-- 
