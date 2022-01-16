@@ -6,3 +6,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on something fun and challenging
 - 🌱 I’m currently learning front end web development
 - ⚡ Fun fact: I love dogs 🐕
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?alexander-rusiecki)](https://github.com/anuraghazra/github-readme-stats)
