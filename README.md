@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love dogs 🐕
 - https://alexanderrusiecki.com/
 - ![](https://komarev.com/ghpvc/?username=alexander-rusiecki&color=blueviolet&style=flat)
+- api/top-langs?username=alexander-rusiecki
 
 
 
