@@ -1,4 +1,4 @@
-## Hi there 👋  
+# Hi there 👋  
 ### Check out my website: https://alexanderrusiecki.com/  
 #### Or my old website: https://alexander-rusiecki.github.io/Portfolio/
 <!--
